@@ -1,5 +1,5 @@
 ## Fitness-Freak-Store
 UI design
 
-![Frame 12](https://user-images.githubusercontent.com/74767290/148699385-6459cb82-78a0-470b-9ec2-3933b371021f.png)    ![Frame 13](https://user-images.githubusercontent.com/74767290/148699415-fa961e7f-afb8-4251-a672-6ca863071d58.jpg)
-
+![Frame 13](https://user-images.githubusercontent.com/74767290/148699870-a1c865e5-d0e1-4de6-84ce-98b90604aa4c.jpg)                         
+![Frame 12](https://user-images.githubusercontent.com/74767290/148699882-793f0b78-2ee8-465f-b983-5a725f7260ca.png)
